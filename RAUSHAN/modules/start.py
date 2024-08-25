@@ -40,7 +40,7 @@ async def start(event):
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                     event.chat_id,
-                    "https://telegra.ph/file/e484dc030e63494789be5.jpg",
+                    "https://telegra.ph/file/e6fc25f72bda17fd3c712.jpg",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )
