@@ -28,7 +28,7 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/PURVI_SUPPORT"><img src="https://telegra.ph/file/c46b4f81489ac9a57d626.jpg"></a>
+<a href="https://t.me/PROFESSOR_77XX"><img src="https://telegra.ph/file/c46b4f81489ac9a57d626.jpg"></a>
 </p>
 
 <p align="center">
