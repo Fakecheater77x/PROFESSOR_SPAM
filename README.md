@@ -8,8 +8,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+😉+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+😉+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐏ʀᴏғᴇssᴏʀ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://PROFESSOR_77X"><img src="https://telegra.ph/file/c46b4f81489ac9a57d626.jpg" width="400"></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><a href="https://PROFESSOR_77X"><img src="https://t.me/+qYRBJgZsARpkNWJl" width="400"></a></p>
+<img src="https://t.me/PROFESSOR_77XX">
 
 
 <h3 align="center">
