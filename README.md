@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐏ʀᴏғᴇssᴏʀ 𝐁ᴏᴛs</b></h1>
 <p align="center"><a href="https://PROFESSOR_77X"><img src="https://t.me/+qYRBJgZsARpkNWJl" width="400"></a></p>
-<img src="https://t.me/PROFESSOR_77XX">
+<img src="https://telegra.ph/file/95643ebd8ab6a60b43643.jpg">
 
 
 <h3 align="center">
